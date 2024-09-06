@@ -1,5 +1,6 @@
-owner: chxseh # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: chxseh
+repo: upptime
+user-agent: github.com/chxseh/upptime
 
 sites:
   - name: Main Server
@@ -9,11 +10,18 @@ sites:
     url: offsite-backup.chse.dev
     port: 1010
 
+assignees:
+  - chxseh
+
 status-website:
   cname: uptime.chse.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   theme: night
+  css: "footer { display: none }"
+  metaTags:
+    - name: "robots"
+      content: "noindex"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
