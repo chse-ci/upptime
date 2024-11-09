@@ -4,19 +4,19 @@
     "url": "https://chse.dev",
     "icon": "https://icons.duckduckgo.com/ip3/chse.dev.ico",
     "slug": "main-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 363,
-    "timeWeek": 467,
-    "timeMonth": 763,
-    "timeYear": 672,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 668,
+    "timeDay": 358,
+    "timeWeek": 454,
+    "timeMonth": 753,
+    "timeYear": 668,
     "dailyMinutesDown": {
-      "2024-11-09": 0
+      "2024-11-09": 8
     }
   },
   {
