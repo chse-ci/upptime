@@ -1,6 +1,6 @@
-owner: chxseh
+owner: chse-ci
 repo: upptime
-user-agent: github.com/chxseh/upptime
+user-agent: github.com/chse-ci/upptime
 
 sites:
   - name: Main Server
@@ -11,7 +11,7 @@ sites:
     port: 1010
 
 assignees:
-  - chxseh
+  - chse-ci
 
 status-website:
   cname: uptime.chse.dev
