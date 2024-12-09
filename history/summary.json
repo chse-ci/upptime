@@ -22,7 +22,7 @@
     "url": "offsite-backup.chse.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 36,
     "timeYear": 35,
     "dailyMinutesDown": {
+      "2024-12-09": 0,
       "2024-11-13": 193
     }
   }
