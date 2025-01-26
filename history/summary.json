@@ -4,18 +4,20 @@
     "url": "https://chse.dev",
     "icon": "https://icons.duckduckgo.com/ip3/chse.dev.ico",
     "slug": "main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 613,
-    "timeWeek": 481,
-    "timeMonth": 502,
-    "timeYear": 590,
-    "dailyMinutesDown": {}
+    "time": 589,
+    "timeDay": 458,
+    "timeWeek": 456,
+    "timeMonth": 499,
+    "timeYear": 589,
+    "dailyMinutesDown": {
+      "2025-01-26": 0
+    }
   },
   {
     "name": "Backup Server",
@@ -29,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 37,
+    "timeDay": 56,
     "timeWeek": 32,
-    "timeMonth": 35,
+    "timeMonth": 36,
     "timeYear": 36,
     "dailyMinutesDown": {}
   }
