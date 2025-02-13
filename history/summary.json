@@ -6,18 +6,16 @@
     "slug": "main-server",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 582,
-    "timeDay": 560,
-    "timeWeek": 516,
-    "timeMonth": 506,
+    "timeDay": 586,
+    "timeWeek": 514,
+    "timeMonth": 515,
     "timeYear": 582,
-    "dailyMinutesDown": {
-      "2025-02-12": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Backup Server",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 40,
-    "timeWeek": 33,
-    "timeMonth": 37,
+    "timeDay": 55,
+    "timeWeek": 34,
+    "timeMonth": 38,
     "timeYear": 36,
     "dailyMinutesDown": {}
   }
