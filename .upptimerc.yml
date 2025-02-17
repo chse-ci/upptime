@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   theme: night
-  css: "footer { display: none }"
+  css: "footer { display: none } body,nav,article { background: black }"
   metaTags:
     - name: "robots"
       content: "noindex"
