@@ -6,17 +6,17 @@
     "slug": "main-server",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "83.11%",
-    "uptimeWeek": "85.49%",
-    "uptimeMonth": "96.66%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "85.59%",
+    "uptimeMonth": "96.68%",
     "uptimeYear": "99.59%",
     "time": 576,
-    "timeDay": 687,
-    "timeWeek": 610,
-    "timeMonth": 579,
+    "timeDay": 618,
+    "timeWeek": 590,
+    "timeMonth": 582,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-05-11": 25,
+      "2025-05-11": 15,
       "2025-05-10": 1108,
       "2025-05-09": 330
     }
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 55,
-    "timeWeek": 32,
-    "timeMonth": 37,
+    "timeDay": 35,
+    "timeWeek": 30,
+    "timeMonth": 38,
     "timeYear": 37,
     "dailyMinutesDown": {}
   }
