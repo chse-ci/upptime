@@ -4,7 +4,7 @@
     "url": "https://chse.dev",
     "icon": "https://icons.duckduckgo.com/ip3/chse.dev.ico",
     "slug": "main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 668,
     "timeYear": 586,
     "dailyMinutesDown": {
+      "2025-05-29": 0,
       "2025-05-20": 150,
       "2025-05-17": 32,
       "2025-05-12": 46,
