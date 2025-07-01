@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chse.dev.ico",
     "slug": "main-server",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "92.19%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.81%",
     "time": 586,
-    "timeDay": 544,
-    "timeWeek": 521,
-    "timeMonth": 582,
+    "timeDay": 538,
+    "timeWeek": 522,
+    "timeMonth": 581,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2025-06-29": 22,
@@ -42,10 +42,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 36,
-    "timeDay": 54,
+    "timeDay": 46,
     "timeWeek": 37,
     "timeMonth": 36,
     "timeYear": 36,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "MKW Server",
+    "url": "mkw.chse.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "mkw-server",
+    "status": "down",
+    "uptime": "93.73%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "93.73%",
+    "uptimeMonth": "93.73%",
+    "uptimeYear": "93.73%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-07-01": 0
+    }
   }
 ]
