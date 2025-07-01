@@ -53,19 +53,19 @@
     "url": "mkw.chse.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mkw-server",
-    "status": "down",
-    "uptime": "89.26%",
-    "uptimeDay": "89.26%",
-    "uptimeWeek": "89.26%",
-    "uptimeMonth": "89.26%",
-    "uptimeYear": "89.26%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "7.10%",
+    "uptimeDay": "7.10%",
+    "uptimeWeek": "7.10%",
+    "uptimeMonth": "7.10%",
+    "uptimeYear": "7.10%",
+    "time": 63,
+    "timeDay": 63,
+    "timeWeek": 63,
+    "timeMonth": 63,
+    "timeYear": 63,
     "dailyMinutesDown": {
-      "2025-07-01": 0
+      "2025-07-01": 17
     }
   }
 ]
