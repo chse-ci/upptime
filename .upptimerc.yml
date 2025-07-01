@@ -9,6 +9,10 @@ sites:
     check: "tcp-ping"
     url: offsite-backup.chse.dev
     port: 22
+  - name: MKW Server
+    check: "tcp-ping"
+    url: mkw.chse.dev
+    port: 22
 
 assignees:
   - chse-ci
