@@ -1,7 +1,7 @@
 url: https://chse.dev
-status: up
-code: 200
-responseTime: 760
-lastUpdated: 2025-07-07T23:21:41.502Z
+status: down
+code: 502
+responseTime: 465
+lastUpdated: 2025-07-08T03:48:53.671Z
 startTime: 2024-09-06T01:19:13.832Z
 generator: Upptime <https://github.com/upptime/upptime>
