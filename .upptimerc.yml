@@ -4,7 +4,7 @@ user-agent: github.com/chse-ci/upptime
 
 sites:
   - name: Main Server
-    url: https://chse.dev
+    url: https://chse.sh
   - name: Backup Server
     check: "tcp-ping"
     url: offsite-backup.chse.dev
@@ -18,9 +18,9 @@ assignees:
   - chse-ci
 
 status-website:
-  cname: uptime.chse.dev
+  cname: status.chse.sh
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Uptime
+  name: Status
   theme: night
   css: "footer { display: none } body,nav,article { background: black }"
   metaTags:
