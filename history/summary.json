@@ -4,18 +4,20 @@
     "url": "https://chse.sh",
     "icon": "https://icons.duckduckgo.com/ip3/chse.sh.ico",
     "slug": "main-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 205,
-    "timeWeek": 256,
-    "timeMonth": 243,
-    "timeYear": 688,
-    "dailyMinutesDown": {}
+    "time": 683,
+    "timeDay": 9966,
+    "timeWeek": 2690,
+    "timeMonth": 872,
+    "timeYear": 734,
+    "dailyMinutesDown": {
+      "2026-05-30": 0
+    }
   },
   {
     "name": "Backup Server",
