@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chse.sh.ico",
     "slug": "main-server",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 327,
-    "timeWeek": 337,
-    "timeMonth": 307,
-    "timeYear": 588,
-    "dailyMinutesDown": {}
+    "uptime": "99.99%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
+    "time": 668,
+    "timeDay": 1129,
+    "timeWeek": 602,
+    "timeMonth": 381,
+    "timeYear": 594,
+    "dailyMinutesDown": {
+      "2026-08-10": 69
+    }
   },
   {
     "name": "Backup Server",
