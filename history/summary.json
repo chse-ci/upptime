@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/chse.sh.ico",
     "slug": "main-server",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.94%",
+    "uptimeDay": "88.68%",
+    "uptimeWeek": "97.31%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "99.88%",
     "time": 703,
-    "timeDay": 9978,
+    "timeDay": 19685,
     "timeWeek": 3003,
     "timeMonth": 1058,
     "timeYear": 649,
@@ -19,7 +19,8 @@
       "2026-08-10": 69,
       "2026-08-25": 312,
       "2026-09-01": 103,
-      "2026-08-31": 5
+      "2026-08-31": 5,
+      "2026-09-02": 163
     }
   },
   {
@@ -34,7 +35,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 37,
-    "timeDay": 36,
+    "timeDay": 39,
     "timeWeek": 45,
     "timeMonth": 47,
     "timeYear": 38,
