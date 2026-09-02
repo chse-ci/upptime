@@ -4,23 +4,23 @@
     "url": "https://chse.sh",
     "icon": "https://icons.duckduckgo.com/ip3/chse.sh.ico",
     "slug": "main-server",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "88.68%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "99.88%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "82.84%",
+    "uptimeWeek": "96.47%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "99.86%",
     "time": 703,
-    "timeDay": 19685,
-    "timeWeek": 3003,
-    "timeMonth": 1058,
+    "timeDay": 10034,
+    "timeWeek": 2712,
+    "timeMonth": 1040,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2026-08-10": 69,
       "2026-08-25": 312,
       "2026-09-01": 103,
       "2026-08-31": 5,
-      "2026-09-02": 163
+      "2026-09-02": 247
     }
   },
   {
